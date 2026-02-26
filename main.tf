@@ -17,7 +17,7 @@ provider "aws" {
 # Resource definition
 resource "aws_instance" "webserver" {
   ami           = "ami-0d6927ccef429da8c"
-  instance_type = "t2.micro"
+  instance_type = "t3.micro"
 
   tags = {
     Name = "Web Server"
