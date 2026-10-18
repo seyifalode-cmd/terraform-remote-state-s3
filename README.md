@@ -1,5 +1,7 @@
 # Terraform Remote State with S3
 
+Oluwaseyi Michael Falode | Cloud & DevOps Engineering | Toronto, ON
+
 Configuring Terraform remote state storage on AWS S3 to enable team collaboration and safe state management for infrastructure-as-code workflows.
 
 ---
